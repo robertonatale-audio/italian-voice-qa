@@ -1,0 +1,9 @@
+id,category,text,expected_or_listen_for
+P01,Question,"Hai già mandato il file, o devo aspettare ancora?","Question contour and a natural pause after file."
+P02,Date and time,"Ci sentiamo il 14/11 alle 18:45.","14 novembre, diciotto e quarantacinque. Check the date and time."
+P03,Amount,"Il preventivo è di 1.200,50 euro.","Milleduecento euro e cinquanta centesimi. Preserve the cents."
+P04,Word stress,"Il capitano disse che certe cose capitano a tutti.","Stress the third syllable in capitano (captain) and the first in capitano (they happen)."
+P05,Double consonants,"Ho lasciato il pacco accanto alla porta, sotto il cappotto.","Check the double consonants and clarity at normal speed."
+P06,Initialism,"Carica il PDF e poi riapri il progetto.","Read PDF as Italian letter names. Check the pause between the two actions."
+P07,Contrast,"Ti ho chiesto il mix di ieri, quello di oggi lo ascoltiamo domani.","The emphasis should distinguish ieri, oggi, and domani."
+P08,Brief change of tone,"Perfetto, ci siamo. Aspetta… manca ancora una traccia.","First line sounds resolved. The pause before manca should feel deliberate."
